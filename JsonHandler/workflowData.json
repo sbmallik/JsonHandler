@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "build":"euclid-ios-phone",
+      "cst_section":"homepage",
+      "ver":"7.6.0",
+      "devicetype":"phone",
+      "ss":"non",
+      "MVPlacementKey":"light",
+      "front=":"",
+      "position":"iPhone_app-section_front_top",
+      "userguid":"805f0412-735b-11ee-9c7e-360712801b9c",
+      "nightmode":"false",
+      "PackageName":"com.usatoday.iPhone20",
+      "clientId":"e9eed389-6612-4a51-a382-33a704cbf40a",
+      "variant":"",
+      "idFlag":"false",
+      "ssts_section":"homepage",
+      "pageType":"home-front"
+    },
+    {
+      "ssts_subsection":"movies",
+      "pageType":"story",
+      "ss":"non",
+      "variant":"abtest_MP2727|a,abtest_MP2656|false,abtest_NAAPS1887_api|,abtest_MP2720|false,abtest_MP3100|control,",
+      "contentid":"70380919007",
+      "MVPlacementKey":"light",
+      "cst_subsection":"movies",
+      "ssts_section":"entertainment",
+      "idFlag":"false",
+      "ver":"7.6.0",
+      "devicetype":"phone",
+      "cst_section":"entertainment",
+      "PackageName":"com.usatoday.iPhone20",
+      "features":"keypointshidden",
+      "aic":"",
+      "adCount":"1",
+      "front":"homepage",
+      "nightmode":"false",
+      "build":"euclid-ios-phone",
+      "clientId":"e9eed389-6612-4a51-a382-33a704cbf40a",
+      "title":"'Joy Ride' review: Summer's raunchiest comedy goes hard on sex, drugs and K-pop",
+      "position":"iPhone_app-native-article_link",
+      "userguid":"805f0412-735b-11ee-9c7e-360712801b9c",
+      "topic":"movie-reviews%2Ccardi-b%2Cdaniel-dae-kim%2Cbaron-davis%2Ccomedy%2Creview%2Ccomedy-films%2Cmovie-reference"
+    }
+  ]
+}

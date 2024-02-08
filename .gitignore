@@ -1,0 +1,25 @@
+Pods/
+
+DerivedData
+Resources/skin
+*.entitlements
+
+.DS_Store
+
+# Xcode user data folders
+xcuserdata/
+
+# emacs backups
+*~
+*.xcuserstate
+*.xcworkspace/xcuserdata
+*.xcworkspace/xcshareddata/*.xccheckout
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcscmblueprint
+*.xcworkspace
+*.xcworkspace/*
+*.xcworkspace/*.xcworkspacedata
+
+build/
+
